@@ -109,11 +109,13 @@
 [![](https://visitcount.itsvg.in/api?id=v1rusno1r&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
+<p align="center">
   [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:1rjPCgprWLSufqA3Qp4YpgR6aXPdXgPQM)
 
 <a href="bitcoin:1rjPCgprWLSufqA3Qp4YpgR6aXPdXgPQM">
   <img src="https://i.ibb.co/MkywcKR/qr.png" alt="Bitcoin QR Code" width="200"/>
 </a>
+</p>
 
 <p align="center">
   <i>Interested in cybersecurity collaboration? Let's connect!</i>
