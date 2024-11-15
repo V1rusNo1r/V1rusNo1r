@@ -22,16 +22,54 @@
 
 ## 🔧 Tools & Technologies
 
-```javascript
-const securityTools = {
-    malwareAnalysis: ['IDA', 'Ghidra', 'x64dbg', 'Binary Ninja'],
-    pentesting: ['Burp Suite', 'Metasploit', 'Nmap', 'OWASP ZAP', 'SQLMap', 'WPScan', 'JoomScan'],
-    forensics: ['Volatility', 'Autopsy', 'FTK', 'Wireshark', 'Binwalk'],
-    SIEM: ['Splunk', 'ELK Stack', 'QRadar'],
-    programming: ['Python2/3', 'Bash', 'PowerShell', 'JavaScript', 'SQL', 'PHP'],
-    cloudSecurity: ['AWS', 'Azure', 'GCP']
-};
-```
+### 🏆 **Vulnerability Assessment Tools**
+- [Nessus](https://www.tenable.com/products/nessus)
+- [OpenVAS](https://www.openvas.org/)
+- [Invicti](https://www.invicti.com/)
+
+### 🌐 **Web Application Testing**
+- [Burp Suite](https://portswigger.net/burp)
+- [Nikto](https://cirt.net/Nikto2)
+- [SQLmap](http://sqlmap.org/)
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [WPScan](https://wpscan.com/)
+- [JoomScan](https://wiki.owasp.org/index.php/Category:OWASP_Joomla_Scan_Project)
+- [Metasploit](https://www.metasploit.com/)
+
+### 💻 **MITM Attack Tools**
+- [Ettercap](https://www.ettercap-project.org/)
+- [Bettercap](https://www.bettercap.org/)
+- [mitmproxy](https://mitmproxy.org/)
+
+### 🔬 **Malware Analysis Tools**
+- [IDA](https://hex-rays.com/ida-pro/)
+- [Ghidra](https://ghidra-sre.org/)
+- [x64dbg](https://x64dbg.com/)
+- [Binary Ninja](https://binary.ninja/)
+
+### 🔎 **Digital Forensics Tools**
+- [Volatility](https://www.volatilityfoundation.org/)
+- [Autopsy](https://www.autopsy.com/)
+- [FTK](https://accessdata.com/products-services/forensic-toolkit-ftk)
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)
+
+### 📊 **SIEM & Log Analysis**
+- [Splunk](https://www.splunk.com/)
+- [ELK Stack](https://www.elastic.co/elastic-stack)
+- [QRadar](https://www.ibm.com/products/qradar-siem)
+
+### 💻 **Programming Languages**
+- Python2/3
+- Bash
+- PowerShell
+- JavaScript
+- SQL
+- PHP
+
+### ☁️ **Cloud Security Platforms**
+- [AWS](https://aws.amazon.com/security/)
+- [Azure](https://azure.microsoft.com/en-us/solutions/security/)
+- [GCP](https://cloud.google.com/security)
 
 ## 🏆 Certifications
 - 🎯 CISSP (Certified Information Systems Security Professional)
@@ -46,28 +84,19 @@ const securityTools = {
 - 🎯 Penetration Testing and Ethical Hacking
 - 🎯 Developing Ethical Hacking Tools with Python
 
-## 🚀 Featured Projects
+## 🛠️ Skills
 
-### 🔍 Malware Analysis Framework
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- Automated malware analysis pipeline
-- Dynamic and static analysis integration
-- Threat intelligence correlation
-
-### 🌐 Web Vulnerability Scanner
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Custom-built web application security scanner
-- Plugin architecture for easy extension
-- Comprehensive reporting system
-
-### 📱 Mobile Security Testing Suite
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-- Android security assessment tools
-- Static code analysis
-- Runtime manipulation
+| **Skill**                                          | **Proficiency** |
+|----------------------------------------------------|-----------------|
+| SIEM Implementation & Log Analysis                 | Advanced        |
+| Network Traffic Monitoring & Attack Detection      | Advanced        |
+| Malware Analysis                                   | Advanced        |
+| Incident Response & Case Management (TheHive)      | Intermediate    |
+| Firewall Implementation & Management               | Intermediate    |
+| System Hardening & Security Configurations         | Advanced        |
+| Penetration Testing                                | Advanced        |
+| Scripting & Automation (Python, Bash)              | Advanced        |
+| Network Topology Design & Security                 | Intermediate    |
 
 ## 🤝 Open for Collaboration
 
@@ -77,6 +106,10 @@ const securityTools = {
 - 💬 Ask me about cybersecurity, ethical hacking, and threat analysis
 
 ---
+[![](https://visitcount.itsvg.in/api?id=v1rusno1r&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/Bitcoin-00457C?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:1rjPCgprWLSufqA3Qp4YpgR6aXPdXgPQM)
 
 <p align="center">
   <i>Interested in cybersecurity collaboration? Let's connect!</i>
